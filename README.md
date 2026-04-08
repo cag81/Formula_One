@@ -36,7 +36,7 @@ Requires R with the `shiny` package installed.
 
 ## Deploy
 
-A `Dockerfile` is included for container deployment (e.g., Railway, Render, or any Docker host).
+A `Dockerfile` is included for container deployment.
 
 ## License
 

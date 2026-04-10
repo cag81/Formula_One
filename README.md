@@ -40,7 +40,7 @@ A `Dockerfile` is included for container deployment.
 
 ## License
 
-MIT License. See [LICENSE](LICENSE).
+See [LICENSE](LICENSE).
 
 ## Citation
 

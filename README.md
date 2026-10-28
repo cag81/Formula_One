@@ -4,7 +4,7 @@ Interactive R Shiny dashboard modeling whether Formula One can achieve net-zero 
 
 Companion tool for:
 
-> Nandurkar, S. and Grady, C. (2026). "Modeling Formula One's Path to Net Zero by 2030: A Systems Approach for Evaluating Decarbonization Strategies." *Frontiers in Climate*. [DOI]
+> Nandurkar, S. and Grady, C. (2026). "Modeling Formula One's Path to Net Zero by 2030: A Systems Approach for Evaluating Decarbonization Strategies." *Frontiers in Climate*. [10.3389/fclim.2026.1854735]
 
 ## Features
 
